@@ -6,7 +6,7 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Back-End+Developer" alt="Typing SVG" /></a>
 </div>
 
-<h3 align="center">💻 Tech Stack 🛠💻</h3>
+<h3 align="center">💻 Tech Stack 💻</h3>
 <br>
 <div align="center">
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">&nbsp
