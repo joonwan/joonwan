@@ -2,9 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=joonwan's%20git&fontSize=70&theme=tokyonight&animation=fadeIn" />
 </div>
 
-<div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Back-End+Developer" alt="Typing SVG" /></a>
-</div>
 
 <h3 align="center">💻 Tech Stack 💻</h3>
 <br>
@@ -51,12 +48,6 @@
 </a>
 </div>
 
-
-<h3 align="center"> PS </h3>
-
-<div align="center">
-    <p><a href="https://solved.ac/wan0808/"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wan0808" alt="Solved.ac Profile"></a> </p>
-</div>
 <!--
 **joonwan/joonwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
